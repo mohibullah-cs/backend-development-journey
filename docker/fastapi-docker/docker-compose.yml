@@ -1,0 +1,7 @@
+services:
+  backend:
+    build: .
+    container_name: fastapi-docker-app
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
