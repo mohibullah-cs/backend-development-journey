@@ -19,19 +19,6 @@ A backend development project demonstrating how to containerize a FastAPI applic
 - Health check endpoint
 - Interactive API documentation
 
-## Project Structure
-
-```text
-fastapi-docker/
-├── app/
-│   └── main.py
-├── Dockerfile
-├── docker-compose.yml
-├── requirements.txt
-├── .dockerignore
-└── README.md
-```
-
 ## Getting Started
 
 ### Build and Run
