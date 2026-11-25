@@ -29,8 +29,7 @@ My journey into Backend Development using Python and modern technologies.
 - Retrieving Data
 
 ## Projects
-- Student Management API
-- Task Management API
+
 - Moba AI
 
 MOBA AI is an AI-powered chatbot built using Python and FastAPI with a web-based frontend and Groq API integration. It allows users to interact with an AI model through a simple chat interface.
@@ -48,6 +47,10 @@ Project Links:
 
 - "Live Demo" (https://moba-ai.onrender.com)
 - "GitHub Repository" (https://github.com/mohibullah-cs/Moba-AI)
+
+- Student Management API
+  
+- Task Management API
 
 ## Goal
 To develop strong backend engineering skills
