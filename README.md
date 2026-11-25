@@ -55,5 +55,3 @@ Project Links:
 ## Goal
 To develop strong backend engineering skills
 and eventually build AI-powered applications.
-
-**Status:** In Progress
